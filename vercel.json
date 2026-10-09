@@ -1,9 +1,26 @@
 {
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://full-movies-online-28.blogspot.com/p/blog-page.html",
-      "permanent": false
+  "title": "Read More",
+  "description": "Click the image to read the full article.",
+  "page": {
+    "background": "#f5f7fb",
+    "fontFamily": "Arial, sans-serif",
+    "maxWidth": "720px",
+    "alignment": "center",
+    "padding": "24px"
+  },
+  "content": {
+    "headline": "Discover More",
+    "text": "Click the image below to read the full article.",
+    "image": {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBDo9ha0csXUfi7KWpBXEdJvoRQkc8lOeIWwtPpdMl-NTc0yYli6Fz4ueOyFs9ji-_FWKY_xUwuYxOkskIzY3X9RG-gy0Hw6mUxReGKph5N2Pguqt6je0P_Qd9YXsMo786Wb2KQ2Hr6NJtCGDHfHxFLHaOkttK6sbAdw_uLiirmMXmPmBtfOkpE2-XIx65/s320/maxresdefault.jpg",
+      "alt": "Read the full article",
+      "href": "https://blogverse.flazora.com/blog/how-to-improve-your-business-credit-score-and-qualify-for-better-financing",
+      "openInNewTab": false,
+      "clickable": true
+    },
+    "button": {
+      "text": "Read Full Article",
+      "href": "https://blogverse.flazora.com/blog/how-to-improve-your-business-credit-score-and-qualify-for-better-financing"
     }
-  ]
+  }
 }
